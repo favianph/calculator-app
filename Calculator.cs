@@ -8,4 +8,9 @@ class calculator
 	{
 		return a + b;
 	}
+	
+	ststic int Pengurangan(int a, int b)
+	{
+		return a - b;
+	}
 }
